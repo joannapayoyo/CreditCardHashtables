@@ -9,7 +9,7 @@ public class TestSystem
         sys.printRecord(1111111111111111l);
         sys.createRecord(0000000000000000l, "Allan Clark", 43100, 0);
         sys.printRecord(0000000000000000l);
-        sys.createRecord(1111111111111111l, "Poop", 43100, 0);
+        sys.createRecord(1111111111111111l, "Mary Stewart", 43100, 0);
         sys.printRecord(1111111111111111l);
         
         sys.purchase(1111111111111111l, 25);
